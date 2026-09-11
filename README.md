@@ -7,7 +7,6 @@ The one-page site for Bitrealm LLC. Plain HTML and CSS, no build step, no JavaSc
 - `index.html` – the page
 - `style.css` – the styles (dark theme, IBM Plex Mono)
 - `fonts/` – IBM Plex Mono, self-hosted so the page loads nothing from third parties
-- `hero.svg` – the generated point-cloud hero graphic (original asset, not the Wix stock video)
 - `favicon.svg` – tab icon
 - `_headers` – security headers Cloudflare Pages applies to every response
 - `robots.txt`
