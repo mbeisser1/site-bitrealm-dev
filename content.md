@@ -6,11 +6,15 @@ Working document for the site text. Edit here, then copy/paste into `index.html`
 
 ## Meta
 
-**Title:** Bitrealm LLC — Software contracting for embedded and systems work
+**Title:** Matt Beisser | Bitrealm LLC | Embedded and systems software
 
-**Description:** Bitrealm LLC is the software contracting practice of Matt Beisser: C++ and Rust for embedded, automotive, and performance-critical systems. Orlando, Florida.
+**Description:** I'm a staff software engineer shipping C++ since 2008 and Rust for the last few years, mostly on embedded and performance-critical systems. Available for part-time and project work through Bitrealm LLC.
 
-**OG description:** Software contracting for embedded and systems work. C++ and Rust, Orlando, Florida.
+**OG title:** Matt Beisser | Bitrealm LLC
+
+**OG description:** Embedded and systems software that ships. C++ and Rust, available for part-time and project work.
+
+**OG image:** og.png, 1200×630, mark + wordmark + tagline on black.
 
 ## Header
 
