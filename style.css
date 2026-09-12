@@ -126,7 +126,7 @@ footer { border-top: 1px solid var(--ink); padding-block: 3rem 2rem; }
   .pill { display: none; }
   .row, .foot-grid { grid-template-columns: 1fr; gap: 1.5rem; }
   .row h2 { font-size: 32px; }
-  .row h2 br, h1 br { display: none; }
+  .row h2 br, h1 br, .avail br { display: none; }
   .foot-links, .foot-addr { margin-top: 1.75rem; }
   .button.big { white-space: normal; word-break: break-all; }
 }

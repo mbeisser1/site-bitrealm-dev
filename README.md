@@ -6,8 +6,10 @@ The one-page site for Bitrealm LLC. Plain HTML and CSS, no build step, no JavaSc
 
 - `index.html` – the page
 - `style.css` – the styles (dark theme, IBM Plex Mono)
+- `content.md` – the page copy as a working document; edit there, then paste into `index.html` by hand
 - `fonts/` – IBM Plex Mono, self-hosted so the page loads nothing from third parties
-- `favicon.svg` – tab icon
+- `favicon.svg`, `favicon.ico`, `apple-touch-icon.png` – the bracket mark as tab and home-screen icons
+- `og.png` – 1200×630 preview image for links shared on LinkedIn, Slack, and similar
 - `_headers` – security headers Cloudflare Pages applies to every response
 - `robots.txt`
 
