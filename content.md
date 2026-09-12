@@ -69,13 +69,13 @@ Profiling with perf and flame graphs, worst-case execution time fixes, and diagn
 #### Final
 
 **Luminar Technologies, 2021 - 2025**  
-I was a staff software engineer on lidar software for the Volvo EX90. I owned two core modules, including the design, testing, and ISO 26262 ASIL B verification evidence, then led a four-person team building a diagnostic data platform in Rust.
+Staff software engineer building lidar software for the Volvo EX90. I owned two core modules, including the design, testing, and ISO 26262 ASIL B verification evidence, then led a four-person team building a diagnostic data platform in Rust.
 
 **Toptech Systems, 2012 - 2021**  
-Nine years on a million-line C++ product that runs fuel terminals for ExxonMobil, Shell, TransMontaigne, and others. I shipped customer features to hundreds of sites, led design reviews and estimation for the project team, and finished as one of three engineers porting the flagship controller from a real-time OS to Linux.
+Nine years on a million-line C++ product that runs fuel terminals for ExxonMobil, Shell, TransMontaigne, and others. I shipped customer features to dozens of sites, ran design reviews, and helped port Toptech's load rack controller from a real-time OS to Linux.
 
 **Lockheed Martin, 2008 - 2012**  
-Simulation software for Army and Marine Corps training programs, my first job out of school.
+Wrote constructive simulation software for US Army and Marine Corps training programs, my first job out of school.
 
 **Education**  
 B.S. Computer Engineering, University of Central Florida.
