@@ -19,9 +19,7 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 
 ## Hero
 
-**Label:** Software Contracting
-
-**H1 (final):** Embedded and systems software that ships.
+**H1 (final):** Software that ships.
 
 **H1 (previous):** Systems and embedded software, built by someone who has shipped it.
 
@@ -33,7 +31,7 @@ Available for part-time and project-based engagements.
 **Lead (previous, for reference):**
 Bitrealm LLC provides software engineering services for embedded, automotive, and performance-critical systems. The work is handled directly by Matt Beisser, a software engineer with more than ten years of experience with expertise in C++ and Rust. Available for part-time and project-based work.
 
-## Work (three cards)
+## Work (four cards)
 
 ### Working set (locked, iterating one at a time)
 
@@ -45,6 +43,9 @@ Lidar software for a production vehicle, with ISO 26262 verification evidence an
 
 #### Performance and failure analysis (locked, revisit later)
 Profiling with perf and flame graphs, worst-case execution time fixes on real hardware, and diagnostic pipelines that turn raw telemetry into an explanation of why a sensor failed.
+
+#### How I work (final)
+I've delivered under DoD-grade process, automotive safety standards, and startup-speed R&D alike. My estimates come with the reasoning behind them, and prototyping informs design decisions.
 
 ### Previous (live on site now)
 
@@ -88,10 +89,6 @@ Nine years on a million-line C++ product for fuel terminal automation. Ported th
 
 **Education**  
 B.S. Computer Engineering, University of Central Florida.
-
-### How I work (removed from site, kept for reference)
-
-I've delivered under DoD-grade process, automotive safety standards, and startup-speed R&D alike. My estimates come with the reasoning behind them, and prototyping informs design decisions.
 
 ### Working set
 
