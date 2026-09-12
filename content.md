@@ -33,7 +33,7 @@ Available for part-time and project-based engagements.
 **Lead (previous, for reference):**
 Bitrealm LLC provides software engineering services for embedded, automotive, and performance-critical systems. The work is handled directly by Matt Beisser, a software engineer with more than ten years of experience with expertise in C++ and Rust. Available for part-time and project-based work.
 
-## Work (four cards)
+## Work (three cards)
 
 ### Working set (locked, iterating one at a time)
 
@@ -45,9 +45,6 @@ Lidar software for a production vehicle, with ISO 26262 verification evidence an
 
 #### Performance and failure analysis (locked, revisit later)
 Profiling with perf and flame graphs, worst-case execution time fixes on real hardware, and diagnostic pipelines that turn raw telemetry into an explanation of why a sensor failed.
-
-#### How I work (final)
-I've delivered under DoD-grade process, automotive safety standards, and startup-speed R&D alike. My estimates come with the reasoning behind them, and prototyping informs design decisions.
 
 ### Previous (live on site now)
 
@@ -92,11 +89,13 @@ Nine years on a million-line C++ product for fuel terminal automation. Ported th
 **Education**  
 B.S. Computer Engineering, University of Central Florida.
 
+### How I work (removed from site, kept for reference)
+
+I've delivered under DoD-grade process, automotive safety standards, and startup-speed R&D alike. My estimates come with the reasoning behind them, and prototyping informs design decisions.
+
 ### Working set
 
 C++14/17, Rust, Python, Bash. Linux on Ubuntu, Red Hat, and Yocto. CMake, Bazel, Conan, GCC, Clang. perf, Valgrind, flame graphs, clang-tidy, gdb, Wireshark. Docker, QEMU/KVM. SOME/IP, DoIP, UDS, UDP.
-
-No forms and no sales process. Send a note describing the work and you get a reply from the engineer who would do it.
 
 ## Footer
 
@@ -106,7 +105,7 @@ Bitrealm LLC
 Orlando, Florida
 
 ### Get in touch
-Inquiries by email. Describe the work, the timeline, and how much of a week it needs, and I will reply within a business day.
+Inquiries by email, no form required. Describe the work and the timeline, and we'll set up a call.
 
 Button: matt@bitrealm.dev
 

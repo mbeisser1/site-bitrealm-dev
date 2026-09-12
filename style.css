@@ -72,7 +72,7 @@ h1 { margin-block: 3.5rem 3rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-heig
 /* Cards */
 .cards {
   display: grid; gap: 2.5rem 1.25rem; padding-block: 4.5rem 7rem;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 .card {
   background: var(--surface); border: 1px solid var(--line); border-radius: 0.5rem;
@@ -105,6 +105,8 @@ h1 { margin-block: 3.5rem 3rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-heig
 footer { border-top: 1px solid var(--ink); padding-block: 3rem 2rem; }
 .foot-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr); gap: 3rem; }
 .foot-links { list-style: none; margin: 3.5rem 0 0; padding: 0; display: grid; gap: 0.6rem; }
+.foot-links a { display: inline-flex; align-items: center; gap: 0.5rem; }
+.fi { flex: none; width: 1rem; height: 1rem; fill: currentColor; }
 .foot-addr { margin-top: 3.5rem; }
 .foot-right h2 { font-size: 36px; margin-block: 1rem 1.25rem; }
 .foot-right p { max-width: 62ch; margin-bottom: 1.75rem; }
