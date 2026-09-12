@@ -36,16 +36,16 @@ Bitrealm LLC provides software engineering services for embedded, automotive, an
 ### Working set (locked, iterating one at a time)
 
 #### Embedded and systems code (final)
-C++ and Rust on Linux, from device modules and packet processing to the build systems and tooling around them. I've ported firmware from an RTOS to Yocto and moved a million-line codebase across four compiler generations.
+I write C++ and Rust on Linux, from device modules and packet processing to the build systems behind it. I've ported firmware from RTOS to Yocto and moved a million-line codebase across four compiler generations.
 
 #### Safety-critical and regulated (final)
-Lidar software for a production vehicle, with ISO 26262 verification evidence and Automotive SPICE process work before an audit. Fuel distribution software, governed by custody transfer, weights-and-measures law, and bills of lading.
+Software has to satisfy an auditor, not just a compiler. I built production lidar software with ISO 26262 verification evidence and Automotive SPICE process work ahead of an audit. I've also written fuel distribution software governed by custody transfer and weights-and-measures law.
 
-#### Performance and failure analysis (locked, revisit later)
-Profiling with perf and flame graphs, worst-case execution time fixes on real hardware, and diagnostic pipelines that turn raw telemetry into an explanation of why a sensor failed.
+#### Testing and verification (final)
+Production code requires evidence that it works. The right level of testing depends on the project, and I've delivered at every level: unit and integration tests, full line and branch coverage, and performance benchmarks on real hardware.
 
-#### How I work (final)
-I've delivered under DoD-grade process, automotive safety standards, and startup-speed R&D alike. My estimates come with the reasoning behind them, and prototyping informs design decisions.
+#### Context-driven engineering (final)
+There’s no one-size-fits-all process. Whether a project is in early-stage R&D or navigating DoD-grade rigor, I match the process to the problem. Estimates come with clear reasoning, and I use small prototypes to test assumptions before committing to an architecture.
 
 ### Previous (live on site now)
 
