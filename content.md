@@ -67,13 +67,13 @@ Profiling with perf and flame graphs, worst-case execution time fixes, and diagn
 
 #### Final
 
-**Luminar Technologies, 2021 to 2025**  
+**Luminar Technologies, 2021 - 2025**  
 I was a staff software engineer on lidar software for the Volvo EX90. I owned two core modules, including the design, testing, and ISO 26262 ASIL B verification evidence, then led a four-person team building a diagnostic data platform in Rust.
 
-**Toptech Systems, 2012 to 2021**  
+**Toptech Systems, 2012 - 2021**  
 Nine years on a million-line C++ product that runs fuel terminals for ExxonMobil, Shell, TransMontaigne, and others. I shipped customer features to hundreds of sites, led design reviews and estimation for the project team, and finished as one of three engineers porting the flagship controller from a real-time OS to Linux.
 
-**Lockheed Martin, 2008 to 2012**  
+**Lockheed Martin, 2008 - 2012**  
 Simulation software for Army and Marine Corps training programs, my first job out of school.
 
 **Education**  
@@ -81,18 +81,16 @@ B.S. Computer Engineering, University of Central Florida.
 
 #### Previous (live on site now)
 
-**Luminar Technologies, 2021 to 2025**  
+**Luminar Technologies, 2021 - 2025**  
 Staff Software Engineer and team lead on lidar software for the Volvo EX90. Owned two core C++ modules through ISO 26262 ASIL B verification, then led a four-person team building a Rust diagnostic data platform.
 
-**Toptech Systems, 2012 to 2021**  
+**Toptech Systems, 2012 - 2021**  
 Nine years on a million-line C++ product for fuel terminal automation. Ported the flagship controller from eCos to Yocto Linux and modernized the build and codebase along the way.
 
 **Education**  
 B.S. Computer Engineering, University of Central Florida.
 
-### Working set
-
-C++14/17, Rust, Python, Bash. Linux on Ubuntu, Red Hat, and Yocto. CMake, Bazel, Conan, GCC, Clang. perf, Valgrind, flame graphs, clang-tidy, gdb, Wireshark. Docker, QEMU/KVM. SOME/IP, DoIP, UDS, UDP.
+### Working set (removed from site; belongs on the resume and LinkedIn)
 
 ## Footer
 
