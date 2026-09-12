@@ -26,7 +26,8 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 **Lead (final):**
 Hi, I'm Matt Beisser. I'm a staff software engineer who has been shipping C++ since 2008 and Rust for the last few years, mostly on embedded and performance-critical systems.
 
-Bitrealm LLC is how I contract that work out. Available for part-time and project work.
+Bitrealm LLC is how I contract that work out.  
+Available for part-time and project work.
 
 **Lead (previous, for reference):**
 Bitrealm LLC provides software engineering services for embedded, automotive, and performance-critical systems. The work is handled directly by Matt Beisser, a software engineer with more than ten years of experience with expertise in C++ and Rust. Available for part-time and project-based work.
