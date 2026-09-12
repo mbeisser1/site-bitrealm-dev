@@ -12,6 +12,7 @@
   --surface: #181a18;
   --line: #484d47;
   --muted: #9ba699;
+  --body: #c9d2c6;
   --ink: #efffeb;
   --accent: #ff6044;
   --accent-dark: #d83a1f;
@@ -66,10 +67,11 @@ strong { font-weight: 500; }
 h1 { margin-block: 3.5rem 3rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-height: 1.25; text-wrap: balance; }
 .lead { max-width: 62ch; margin: 0 auto; font-size: 14px; }
 .hero .lead { text-shadow: 0 1px 10px rgba(0, 0, 0, 0.7); }
+.avail { margin-top: 1.5rem; }
 
 /* Cards */
 .cards {
-  display: grid; gap: 2.5rem 2rem; padding-block: 4.5rem 7rem;
+  display: grid; gap: 2.5rem 1.25rem; padding-block: 4.5rem 7rem;
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 .card {
@@ -81,7 +83,8 @@ h1 { margin-block: 3.5rem 3rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-heig
   border: 1px solid var(--ink); border-radius: 0.4rem; margin-bottom: 1.4rem;
 }
 .icon svg { width: 1.6rem; height: 1.6rem; fill: none; stroke: var(--ink); stroke-width: 1.2; stroke-linecap: round; stroke-linejoin: round; }
-.card h2 { font-size: 24px; margin-bottom: 2.75rem; }
+.card h2 { font-size: 24px; line-height: 1.2; min-height: calc(3 * 1.2em); margin-bottom: 1.5rem; }
+.card p { color: var(--body); }
 
 /* Gradient panel */
 .panel { padding-block: 4rem 6rem; }
@@ -95,7 +98,8 @@ h1 { margin-block: 3.5rem 3rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-heig
   padding-block: 3.5rem;
 }
 .row h2 { font-size: 48px; line-height: 1.2; }
-.bar { border-left: 3px solid var(--accent); padding-left: 1.4rem; display: grid; gap: 1.2rem; align-self: start; }
+.bar { border-left: 3px solid var(--accent); padding-left: 1.4rem; display: grid; gap: 1.2rem; align-self: start; color: var(--body); }
+.bar strong { color: var(--ink); }
 
 /* Footer */
 footer { border-top: 1px solid var(--ink); padding-block: 3rem 2rem; }
@@ -112,6 +116,7 @@ footer { border-top: 1px solid var(--ink); padding-block: 3rem 2rem; }
 }
 @media (max-width: 760px) {
   .cards { grid-template-columns: 1fr; }
+  .card h2 { min-height: 0; }
   .pill { display: none; }
   .row, .foot-grid { grid-template-columns: 1fr; gap: 1.5rem; }
   .row h2 { font-size: 32px; }
