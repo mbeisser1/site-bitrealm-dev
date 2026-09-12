@@ -56,35 +56,35 @@ strong { font-weight: 500; }
 /* Hero */
 .hero {
   position: relative; isolation: isolate; max-width: none; padding-inline: 0;
-  min-height: clamp(30rem, 52vw, 41rem);
   display: flex; align-items: center;
 }
 .hero-inner {
-  max-width: var(--measure); width: 100%; margin-inline: auto; padding-inline: var(--gutter); padding-block: 4rem 6rem;
+  max-width: var(--measure); width: 100%; margin-inline: auto; padding-inline: var(--gutter); padding-block: 3rem 4.5rem;
   text-align: center;
 }
 .label { font-size: 20px; }
-h1 { margin-block: 3.5rem 3rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-height: 1.25; text-wrap: balance; }
+h1 { margin-block: 2rem 2.25rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-height: 1.25; text-wrap: balance; }
 .lead { max-width: 62ch; margin: 0 auto; font-size: 14px; }
 .hero .lead { text-shadow: 0 1px 10px rgba(0, 0, 0, 0.7); }
 .avail { margin-top: 1.5rem; }
 
 /* Cards */
 main > .cards {
-  display: grid; gap: 2rem; padding-block: 4.5rem 7rem;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  display: grid; gap: 2rem 1.25rem; padding-block: 4rem 5rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  max-width: 110rem; padding-inline: clamp(1.25rem, 3vw, 2.5rem);
 }
 .card {
   background: var(--surface); border: 1px solid var(--line); border-radius: 0.5rem;
   padding: 1.5rem 1.25rem 1.75rem;
 }
-.card-head { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+.card-head { display: flex; align-items: flex-start; gap: 1rem; margin-bottom: 1rem; min-height: 3rem; }
 .icon {
   display: inline-grid; place-items: center; width: 3rem; height: 3rem; flex: none;
   border: 1px solid var(--ink); border-radius: 0.4rem;
 }
 .icon svg { width: 1.6rem; height: 1.6rem; fill: none; stroke: var(--ink); stroke-width: 1.2; stroke-linecap: round; stroke-linejoin: round; }
-.card h2 { font-size: clamp(19px, 1.85vw, 24px); line-height: 1.2; white-space: nowrap; }
+.card h2 { font-size: clamp(19px, 1.5vw, 22px); line-height: 1.2; align-self: center; min-height: 2.4em; display: flex; align-items: center; }
 .card p { color: var(--body); }
 
 /* Gradient panel */
@@ -114,6 +114,10 @@ footer { border-top: 1px solid var(--ink); padding-block: 3rem 2rem; }
 .button.big { font-size: 16px; }
 .copy { margin-top: 4rem; }
 
+@media (max-width: 1300px) {
+  main > .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem; max-width: var(--measure); padding-inline: var(--gutter); }
+  .card h2 { min-height: 0; white-space: nowrap; }
+}
 @media (max-width: 960px) {
   main > .cards { grid-template-columns: 1fr; }
   .card h2 { white-space: normal; font-size: 22px; }
