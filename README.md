@@ -5,6 +5,7 @@ The one-page site for Bitrealm LLC. Plain HTML and CSS, no build step, no JavaSc
 ## Files
 
 - `index.html` – the page
+- `404.html` – not-found page; Cloudflare Pages serves it with a real 404 status
 - `style.css` – the styles (dark theme, IBM Plex Mono)
 - `content.md` – the page copy as a working document; edit there, then paste into `index.html` by hand
 - `fonts/` – IBM Plex Mono, self-hosted so the page loads nothing from third parties

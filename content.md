@@ -8,7 +8,7 @@ Working document for the site text. Edit here, then copy/paste into `index.html`
 
 **Title:** Matt Beisser | Bitrealm LLC | Embedded and systems software
 
-**Description:** I'm a staff software engineer shipping C++ since 2008 and Rust for the last few years, mostly on embedded and performance-critical systems. Taking on part-time and project work through Bitrealm LLC. Remote from Orlando, Eastern time.
+**Description:** Embedded and systems software engineer. C++ since 2008, Rust for the last few years. Part-time and project work through Bitrealm LLC. Remote from Orlando.
 
 **OG title:** Matt Beisser | Bitrealm LLC
 
@@ -28,23 +28,23 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 **Lead:**
 Hi, I'm Matt Beisser. I'm a staff software engineer who has been shipping C++ since 2008 and Rust for the last few years, mostly on embedded and performance-critical systems.
 
-Bitrealm LLC is how I contract that work out.  
+Bitrealm LLC is the company I do that work through.  
 Taking on part-time and project work.  
 Remote from Orlando, Eastern time.
 
 ## Work (four cards)
 
 #### Embedded and systems code
-I write C++ and Rust on Linux, from device modules and packet processing to the build systems behind it. I've ported firmware from RTOS to Yocto and moved a million-line codebase across four compiler generations.
+I write C++ and Rust on Linux, from device modules and packet processing to the build systems behind them. Whether it’s a new project or a mature codebase, I focus on making steady, meaningful improvements. Keep what works, modernize when necessary, and avoid rewrites that don’t pay off.
 
 #### Safety-critical and regulated
-Software has to satisfy an auditor, not just a compiler. I built production lidar software with ISO 26262 verification evidence and Automotive SPICE process work ahead of an audit. I've also written fuel distribution software governed by custody transfer and weights-and-measures law.
+Some software has to satisfy an auditor, not just a compiler. I’ve delivered under ISO 26262, Automotive SPICE, and custody-transfer regulations. My approach to compliance is simple: demonstrate what’s required, capture evidence as we go, and avoid unnecessary process.
 
 #### Testing and verification
-Production code requires evidence that it works. The right level of testing depends on the project, and I've delivered at every level: unit and integration tests, full line and branch coverage, and performance benchmarks on real hardware.
+Production code needs evidence that it works. I tailor testing to the project, from unit and integration tests to full line and branch coverage, with performance benchmarks on real hardware when it matters.
 
 #### Context-driven engineering
-There’s no one-size-fits-all process. Whether a project is in early-stage R&D or navigating DoD-grade rigor, I match the process to the problem. Estimates come with clear reasoning, and I use small prototypes to test assumptions before committing to an architecture.
+The right process depends on the problem. I work pragmatically, from early-stage R&D to DoD-grade rigor. Estimates come with clear reasoning, and small prototypes test assumptions before they become architecture.
 
 ## Background
 
@@ -76,4 +76,4 @@ Inquiries by email, no form required. Describe the work and the timeline, and we
 
 Button: matt@bitrealm.dev
 
-© 2026 by Bitrealm LLC
+© 2026 Bitrealm LLC
