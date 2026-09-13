@@ -36,7 +36,7 @@ Today, I do that work as an independent contractor through Bitrealm LLC. I work 
 I write C++ and Rust on Linux, from device modules and packet processing to build systems. I improve what’s already working, modernize where necessary, and avoid rewrites that don’t pay off.
 
 #### Safety-critical and regulated
-Some software has to satisfy an auditor, not just a compiler. I’ve delivered under ISO 26262, Automotive SPICE, and custody-transfer regulations. My approach to compliance is simple: demonstrate what’s required, capture evidence as we go, and avoid unnecessary process.
+Some software has to satisfy an auditor, not just a compiler. I’ve delivered under ISO 26262, Automotive SPICE, and custody-transfer regulations. My approach is simple: meet the requirements, capture the evidence, and keep the process lean.
 
 #### Testing and verification
 Production code needs evidence that it works. I tailor testing to the project, from unit and integration tests to full line and branch coverage, with performance benchmarks on real hardware when it matters.
