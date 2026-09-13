@@ -28,8 +28,7 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 **Lead:**
 Hi, I’m Matt Beisser. I’m a senior engineer who has been shipping C++ since 2008 and Rust in recent years, primarily on embedded and performance-critical systems.
 
-Today, I do that work as an independent contractor through Bitrealm LLC.  
-I work remotely from Orlando, Eastern Time.
+Today, I do that work as an independent contractor through Bitrealm LLC. I work remotely from Orlando, Eastern Time.
 
 ## Work (four cards)
 
