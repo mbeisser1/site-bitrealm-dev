@@ -75,6 +75,8 @@ Bitrealm LLC
 Orlando, Florida
 
 ### Get in touch
+Not a fit for web frontends, mobile apps, or greenfield SaaS. I work on systems software: C++, Rust, and Linux code that runs close to hardware or moves critical data.
+
 Inquiries by email, no form required. Describe the work and the timeline, and we'll set up a call.
 
 Button: matt@bitrealm.dev
