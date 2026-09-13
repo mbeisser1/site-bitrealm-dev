@@ -8,11 +8,11 @@ Working document for the site text. Edit here, then copy/paste into `index.html`
 
 **Title:** Bitrealm LLC | Matt Beisser | Embedded and systems software
 
-**Description:** Embedded and systems software engineer. C++ since 2008, Rust for the last few years. Contracting through Bitrealm LLC. Remote from Orlando.
+**Description:** Embedded and systems software engineer. C++ since 2008, Rust for the last few years. Contracting through Bitrealm LLC. Remote from Orlando, FL.
 
 **OG title:** Bitrealm LLC | Matt Beisser
 
-**OG description:** Embedded and systems software that ships. C++ and Rust, contracting through Bitrealm LLC. Remote from Orlando, Eastern time.
+**OG description:** Embedded and systems software that ships. C++ and Rust, contracting through Bitrealm LLC. Remote from Orlando, FL, Eastern time.
 
 **OG image:** og.png, 1200×630, mark + wordmark + tagline on black.
 
@@ -28,7 +28,7 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 **Lead:**
 Hi, I’m Matt Beisser. I’m a senior engineer who has been shipping C++ since 2008 and Rust in recent years, primarily on embedded and performance-critical systems.
 
-Today, I do that work as an independent contractor through Bitrealm LLC. I work remotely from Orlando, Eastern Time.
+Today, I do that work as an independent contractor through Bitrealm LLC. I work remotely from Orlando, FL, Eastern Time.
 
 ## Work (four cards)
 
