@@ -34,7 +34,7 @@ p { margin: 0; }
 h1, h2 { margin: 0; font-weight: 400; line-height: 1.2; }
 strong { font-weight: 500; }
 
-.top, main > .intro, main > .cards, .panel > .row, footer > * { max-width: var(--measure); margin-inline: auto; padding-inline: var(--gutter); }
+.top, main > .cards, .panel > .row, footer > * { max-width: var(--measure); margin-inline: auto; padding-inline: var(--gutter); }
 
 /* Header */
 .top {
@@ -62,7 +62,6 @@ strong { font-weight: 500; }
   max-width: var(--measure); width: 100%; margin-inline: auto; padding-inline: var(--gutter); padding-block: 3rem 4.5rem;
   text-align: center;
 }
-.label { font-size: 20px; }
 h1 { margin-block: 2rem 2.25rem; font-size: clamp(1.6rem, 3.5vw, 3rem); line-height: 1.25; text-wrap: balance; }
 .lead { max-width: 62ch; margin: 0 auto; font-size: 14px; }
 .hero .lead { text-shadow: 0 1px 10px rgba(0, 0, 0, 0.7); }

@@ -6,11 +6,11 @@ Working document for the site text. Edit here, then copy/paste into `index.html`
 
 ## Meta
 
-**Title:** Matt Beisser | Bitrealm LLC | Embedded and systems software
+**Title:** Bitrealm LLC | Matt Beisser | Embedded and systems software
 
 **Description:** Embedded and systems software engineer. C++ since 2008, Rust for the last few years. Part-time and project work through Bitrealm LLC. Remote from Orlando.
 
-**OG title:** Matt Beisser | Bitrealm LLC
+**OG title:** Bitrealm LLC | Matt Beisser
 
 **OG description:** Embedded and systems software that ships. C++ and Rust, taking on part-time and project work. Remote from Orlando, Eastern time.
 
@@ -26,7 +26,7 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 **H1:** Software that ships.
 
 **Lead:**
-Hi, I'm Matt Beisser. I'm a staff software engineer who has been shipping C++ since 2008 and Rust for the last few years, mostly on embedded and performance-critical systems.
+Hi, I'm Matt Beisser. I'm a senior engineer who has been shipping C++ since 2008 and Rust for the last few years, mostly on embedded and performance-critical systems.
 
 Bitrealm LLC is the company I do that work through.  
 Taking on part-time and project work.  
@@ -49,6 +49,9 @@ The right process depends on the problem. I work pragmatically, from early-stage
 ## Background
 
 ### Where the experience comes from
+
+**Bitrealm LLC, 2025 - present**  
+Independent contractor. Embedded and systems software.
 
 **Luminar Technologies, 2021 - 2025**  
 Staff software engineer building lidar software for the Volvo EX90. I owned two core modules, including the design, testing, and ISO 26262 ASIL B verification evidence, then led a four-person team building a diagnostic data platform in Rust.

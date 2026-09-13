@@ -12,7 +12,7 @@ The one-page site for Bitrealm LLC. Plain HTML and CSS, no build step, no JavaSc
 - `favicon.svg`, `favicon.ico`, `apple-touch-icon.png` – the bracket mark as tab and home-screen icons
 - `og.png` – 1200×630 preview image for links shared on LinkedIn, Slack, and similar
 - `_headers` – security headers Cloudflare Pages applies to every response
-- `robots.txt`
+- `robots.txt`, `sitemap.xml`
 
 ## Deploy on Cloudflare Pages
 
