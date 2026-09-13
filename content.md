@@ -33,7 +33,7 @@ Today, I do that work as an independent contractor through Bitrealm LLC. I work 
 ## Work (four cards)
 
 #### Embedded and systems code
-I write C++ and Rust on Linux, from device modules and packet processing to the build systems behind them. Whether it’s a new project or a mature codebase, I focus on making steady, meaningful improvements. Keep what works, modernize when necessary, and avoid rewrites that don’t pay off.
+I write C++ and Rust on Linux, from device modules and packet processing to build systems. I improve what’s already working, modernize where necessary, and avoid rewrites that don’t pay off.
 
 #### Safety-critical and regulated
 Some software has to satisfy an auditor, not just a compiler. I’ve delivered under ISO 26262, Automotive SPICE, and custody-transfer regulations. My approach to compliance is simple: demonstrate what’s required, capture evidence as we go, and avoid unnecessary process.
