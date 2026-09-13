@@ -26,10 +26,10 @@ Button: Email Matt (mailto:matt@bitrealm.dev)
 **H1:** Software that ships.
 
 **Lead:**
-Hi, I'm Matt Beisser. I'm a senior engineer who has been shipping C++ since 2008 and Rust for the last few years, mostly on embedded and performance-critical systems.
+Hi, I’m Matt Beisser. I’m a senior engineer who has been shipping C++ since 2008 and Rust in recent years, primarily on embedded and performance-critical systems.
 
-Bitrealm LLC is the company I do that work through.  
-Remote from Orlando, Eastern time.
+Today, I do that work as an independent contractor through Bitrealm LLC.  
+I work remotely from Orlando, Eastern Time.
 
 ## Work (four cards)
 
@@ -49,20 +49,21 @@ The right process depends on the problem. I work pragmatically, from early-stage
 
 ### Where the experience comes from
 
-**Bitrealm LLC, 2025 - present**  
-Independent contractor. Embedded and systems software.
+**Bitrealm LLC · 2025–present**  
+Independent contractor working on embedded and systems software.
 
-**Luminar Technologies, 2021 - 2025**  
-Staff software engineer building lidar software for the Volvo EX90. I owned two core modules, including the design, testing, and ISO 26262 ASIL B verification evidence, then led a four-person team building a diagnostic data platform in Rust.
+**Luminar Technologies · 2021–2025**  
+Staff software engineer building lidar software for the Volvo EX90. I owned two core modules, including their design, testing, and ISO 26262 ASIL B verification evidence. I later led a four-person team building a diagnostic data platform in Rust.
 
-**Toptech Systems, 2012 - 2021**  
-Nine years on a million-line C++ product that runs fuel terminals for ExxonMobil, Shell, TransMontaigne, and others. I shipped customer features to dozens of sites, ran design reviews, and helped port Toptech's load rack controller from a real-time OS to Linux.
+**Toptech Systems · 2012–2021**  
+Spent nine years on a million-line C++ product running fuel terminals for ExxonMobil, Shell, TransMontaigne, and others. I shipped customer features to dozens of sites, ran design reviews, and helped port Toptech’s load-rack controller from a real-time OS to Linux.
 
-**Lockheed Martin, 2008 - 2012**  
-Wrote constructive simulation software for US Army and Marine Corps training programs, my first job out of school.
+**Lockheed Martin · 2008–2012**  
+Wrote constructive simulation software for U.S. Army and Marine Corps training programs - my first job out of school.
 
 **Education**  
-B.S. Computer Engineering, University of Central Florida.
+B.S. Computer Engineering  
+University of Central Florida
 
 ### Working set (removed from site; belongs on the resume and LinkedIn)
 
